@@ -1,2 +1,2 @@
-# Programovani2
-zápočtovy program
+# NPRG031 Programování II
+Zápočtovy program
