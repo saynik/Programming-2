@@ -1,4 +1,4 @@
-                               Space Invaders
+                                              Space Invaders
                       
 Máte před sebou práci studenta :
 
