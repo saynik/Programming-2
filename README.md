@@ -16,6 +16,9 @@ Dle žánru Space Invaders je shoot 'em up, v níž hráč ovládá laserové d�
 
 Navíc vesmírná plavidla útočníků nejsou bezbranná, ale mohou se aktivně bránit shazováním bomb na pohyblivé dělo. Čas od času prolétá ve vrchní části obrazovky speciální loď, jejíž zásah muže hráči přinést body navíc. Pokud se hráči podaří zneškodnit všechny přistávající lodě, začíná další kolo se stejným rozestavením, ale mnohem těžší obtížností. Laserové dělo je částečně chráněno několika defenzivní mi bunkry. Tyto bunkry mohou být zničeny hráčem a mimozemšťany. Hra končí v momentě, kdy hráč ztratí všechny své životy, nebo když se vetřelcům podaří dosáhnout povrchu planety a přistát.
 
+## Download
+Hotový projekt si můžete stáhnout na [tomto](https://github.com/saynik/Programming-2/releases) odkazu
+
 ## Instalace a spuštění hry
 
 1) Chcete-li začít pracovat s touto hrou, musíte nainstalovat "Microsoft Visual Studio" (nejnovější verzi pro váš operační systém si můžete stáhnout z webových stránek [https://visualstudio.microsoft.com]() )
